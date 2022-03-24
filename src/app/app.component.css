@@ -1,0 +1,33 @@
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* .container ul li {
+    
+    display: flex;
+    justify-content: center;
+} */
+a:active{
+    background-color: aliceblue;
+}
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.navbar{
+    background-color: yellowgreen;
+}
+.alert{
+    text-align: center;
+    
+}
+.btn{
+   margin-right: 1em;
+}
